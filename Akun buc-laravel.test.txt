@@ -1,3 +1,5 @@
 Login admin
 
 1. email : buchoryaf@gmail.com | password : password
+
+Apk ini menggunuakan PHP 7 dan Laravel 8
